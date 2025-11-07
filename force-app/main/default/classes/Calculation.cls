@@ -4,6 +4,8 @@ public with sharing class Calculation {
     }
 /* added add method
 
+    
+     public Integer sub(integer a, integer b)
 
 just for checking.
 */
